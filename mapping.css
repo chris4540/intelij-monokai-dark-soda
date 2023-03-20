@@ -1,0 +1,66 @@
+/* https://github.com/adamcaviness/vs-code-theme-monokai-dark-soda */
+.background-from {
+    color: #222222;
+}
+
+.background-to {
+    color: #242424;
+}
+
+.label-from {
+    color: #f7f1ff
+}
+
+.label-to {
+    color: #f8f8f2
+}
+
+.comment-from {
+    color: #69676c;
+}
+
+.comment-to {
+    color: #8c8c8c;
+}
+
+.constant-from {
+    color: #f59762
+}
+
+
+.constant-to {
+    color: #fd971f
+}
+
+
+.method-from {
+    color: #7bd88f
+}
+
+.method-to {
+    color: #a6e22e
+}
+
+.string-from {
+    color: #fce566
+}
+
+.string-to {
+    color: #ffee99
+}
+
+.class-name-from {
+    color: #5ad4e6
+}
+
+.class-name-to {
+    color: #66d9ef
+}
+
+.error-pink-from {
+    color: #fc618d
+}
+
+.error-pink-to {
+    color: #f92672
+}
